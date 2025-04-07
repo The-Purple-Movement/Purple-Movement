@@ -5,7 +5,7 @@
 - [ ] Share across design and social handles to ignite the movement
 
 ## 2. Team Sync-Up
-- [ ] Schedule meeting with each team (Design, Tech, Strategy, Social, Video, Photography)
+- [x] Schedule meeting with each team (Design, Tech, Strategy, Social, Video, Photography)
 - [ ] Plan contributions and responsibilities for each team
 
 ## 3. Identity & Messaging
