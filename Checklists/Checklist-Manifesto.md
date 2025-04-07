@@ -1,7 +1,7 @@
 # Manifesto Launch Campaign Checklist
 
 ## 1. Manifesto Launch
-- [ ] Finalize the manifesto content
+- [x] Finalize the manifesto content
 - [ ] Share across design and social handles to ignite the movement
 
 ## 2. Team Sync-Up
