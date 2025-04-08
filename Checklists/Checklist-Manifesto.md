@@ -19,7 +19,7 @@
 - [ ] Prepare other campaign materials (e.g., banners, flyers)
 
 ## 5. Platform Setup
-- [ ] Tech team to develop landing pages for the campaign
+- [x] Tech team to develop landing pages for the campaign
 
 ## 6. Campaign Strategy
 - [ ] Define key campaign goals
