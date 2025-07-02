@@ -1,0 +1,78 @@
+# Minutes of the Meeting - July 01, 2025
+# TechMyrmidons Content Update & Development Plan
+
+---
+
+## Stage 1
+
+1. **Update data** up to **June 2025**.
+2. **Add data** to different domains (for sections marked *Coming soon*).
+3. Update **Blogs** and **People to follow** sections.
+
+
+## Stage 2
+
+1. **Create a mobile application** with a login page. *(Login page is optional.)*
+2. Set up **notifications**.
+3. Apply **design changes**.
+
+
+## Domains & Assignments
+
+| Domain               | Assigned Person  |
+|----------------------|------------------|
+| AI                   | Sharath          |
+| Cybersecurity        | Akhila           |
+| Android              | Akshay           |
+| AR/VR                | Sundara          |
+| UI/UX                | Amenda           |
+| Marketing            | Naveen           |
+| IoT                  | Reuben           |
+| Product Management   | Arafa            |
+| Game Development     | Kevin            |
+| FOSS                 | Akshay           |
+| Creative Design      | Neenu            |
+| QA                   | Mathson          |
+
+---
+
+## Posting Frequency
+
+- **Domain-related pages**: Post **monthly**.  
+  - After the user base increases, switch to **weekly** posting.
+- **Blogs page**: Update **yearly**.
+
+
+## Resources
+
+- **Content creation tools**:  
+  - [ChatGPT](https://chat.openai.com/)  
+  - [Perplexity.ai](https://www.perplexity.ai/)
+
+
+
+## How to Post
+
+- Website: [techmyrmidons.com](https://techmyrmidons.com/)
+- GitHub repository: [gtech-mulearn/techmyrmidons-web](https://github.com/gtech-mulearn/techmyrmidons-web)
+
+
+
+## How to Update Years
+
+- Update the file:  
+  `src/data/years.json`
+- For domains without yearly data, post content starting from **2017**.
+
+
+
+## Contribution Guidelines
+
+1. **First fork the repo.**
+2. Then **create a pull request** with your updates.
+
+---
+
+## Important Note
+
+- **Actions on Google** should be **removed** from the project.
