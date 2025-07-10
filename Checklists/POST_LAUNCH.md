@@ -1,8 +1,8 @@
 # Post-Launch Checklist
 
 ## 1. Technical/Platform Checks
-- [ ] Verify all links (YouTube, Instagram, LinkedIn, GitHub) are working.
-- [ ] Check content visibility (public access, permissions, mobile compatibility).
+- [x] Verify all links (YouTube, Instagram, LinkedIn, GitHub) are working.
+- [x] Check content visibility (public access, permissions, mobile compatibility).
 - [ ] Test responsiveness on different devices/browsers.
 - [ ] Ensure thumbnails, titles, and metadata are properly set.
 
@@ -13,7 +13,7 @@
 
 ## 3. Promotion & Sharing
 - [ ] Announce launch on all social media channels.
-- [ ] Share in community platforms (Discord, Telegram, WhatsApp groups, μLearn Circle, etc.).
+- [x] Share in community platforms (Discord, Telegram, WhatsApp groups, μLearn Circle, etc.).
 - [ ] Tag relevant collaborators and contributors.
 - [ ] Schedule follow-up posts (teasers, highlights, Q&A prompts).
 
